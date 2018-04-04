@@ -2,7 +2,7 @@
 #script by stelios.miaoudakis@leroymerlin.gr 12/2017
 #execute bimp_fiscal if lanceur is disabled
 
-fiscerr="/home2/lm/prog/util/fic/BIMP_FISCAL.arret"
+fiscerr="file check if exists"
 deltdir="/home2/doc_fiscaux/att/"
 fiscdir="/home2/lm/prog/SBILUX_src/client/"
 bimpdir="/home2/lm/prog/util/bat/"
